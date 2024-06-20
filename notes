@@ -1,0 +1,11 @@
+server setup:{
+        express,
+        nodemon,
+        colors,
+        dotenv,
+        morgan,
+        mongoose,
+        bcrypt,
+        JSONWEBTOKEN,
+        
+}
